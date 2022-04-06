@@ -4,19 +4,19 @@
   <div id="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=AdrianPanP&style=flat-square&color=blue" alt=""/>
   </div>
-<!--
-**AdrianPanP/AdrianPanP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+---
+###  About Me:
+  - 🌱 I’m currently learning web technologies (HTML, CSS, JS, SQL)
+  - 🔭  After web technologies I will start to learn Spring Framework
+  - 😄 I am looking for an internship where I can progress myself
 
-Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+Do you like the counter under the headline? Check it out here -> https://github.com/antonkomarev/github-profile-views-counter
