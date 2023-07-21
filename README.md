@@ -15,7 +15,7 @@
   
 ---
 ###  About Me:
-  - 🌱 I’m currently learning Spring Framework
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
